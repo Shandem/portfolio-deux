@@ -1,23 +1,18 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react';
+import DesktopNav from './Header/DesktopNav'
+import Footer from './Footer/Footer'
+
+import routes from './config/routes'
+import './App.scss';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <DesktopNav/>
+      Hello world yay its working this is the main app
+
+      {routes}
+      <Footer/>
     </div>
   );
 }
