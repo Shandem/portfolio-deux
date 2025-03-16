@@ -12,9 +12,14 @@
     "react-dom": "^18.2.0",
     "react-fullpage": "^0.1.1",
     "react-router-dom": "^5.2.0",
+<<<<<<< HEAD
     "react-scripts": "^5.0.1",
     "react-scroll": "^1.9.3",
     "react-swipeable": "^7.0.1",
+=======
+    "react-router5": "^8.0.1",
+    "react-scripts": "5.0.1",
+>>>>>>> d7be877d48ce213eabe1e3ae57d42e5746aeba39
     "sass": "^1.66.1",
     "web-vitals": "^2.1.4"
   },
