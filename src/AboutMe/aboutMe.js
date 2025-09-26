@@ -5,7 +5,7 @@ export default function aboutMe() {
    <section className="aboutMe">
 
     <div className="photoContainer">
-
+      
         <a href="the photo" className="me"> this is the photo</a>
         <t3 className="aboutTitle">Joshuah Joel Buan-Gutierrez</t3>
 

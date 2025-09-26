@@ -1,10 +1,9 @@
-# Getting Started with Create React App
+# This is the current active portfolio. h
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+had to re create the whole thing because of the packages inn the last one where out of date and no longer supported
 
 ## Available Scripts
-
-In the project directory, you can run:
 
 ### `npm start`
 
